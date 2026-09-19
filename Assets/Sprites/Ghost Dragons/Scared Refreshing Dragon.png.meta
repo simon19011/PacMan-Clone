@@ -1,16 +1,13 @@
 fileFormatVersion: 2
-guid: 06afa758ce87eef4393d3e302a217dbd
+guid: 377fc82c21f5fa74d995a7d69bc3571a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -720388871541137037
-    second: Dead Dragon Walk Up_0
+      213: 8579200199523126158
+    second: Scared Refreshing Dragon_0
   - first:
-      213: 7631724345347887989
-    second: Dead Dragon Walk Up_1
-  - first:
-      213: 4354770382628054947
-    second: Dead Dragon Walk Up_2
+      213: -899921244972516482
+    second: Scared Refreshing Dragon_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -132,7 +129,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dead Dragon Walk Up_0
+      name: Scared Refreshing Dragon_0
       rect:
         serializedVersion: 2
         x: 0
@@ -147,36 +144,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 37165ab532aa006f0800000000000000
-      internalID: -720388871541137037
+      spriteID: e8b498d70217f0770800000000000000
+      internalID: 8579200199523126158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead Dragon Walk Up_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 57359248bd459e960800000000000000
-      internalID: 7631724345347887989
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dead Dragon Walk Up_2
+      name: Scared Refreshing Dragon_1
       rect:
         serializedVersion: 2
         x: 0
@@ -191,8 +166,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3a7efe627904f6c30800000000000000
-      internalID: 4354770382628054947
+      spriteID: e7bf59b4566d283f0800000000000000
+      internalID: -899921244972516482
       vertices: []
       indices: 
       edges: []
@@ -201,7 +176,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 59e15173bde2d93439d93f5c4be61d4f
+    spriteID: 4cbac62912cd43b4baee6b71a56f2e80
     internalID: 0
     vertices: []
     indices: 
@@ -213,9 +188,8 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Dead Dragon Walk Up_0: -720388871541137037
-      Dead Dragon Walk Up_1: 7631724345347887989
-      Dead Dragon Walk Up_2: 4354770382628054947
+      Scared Refreshing Dragon_0: 8579200199523126158
+      Scared Refreshing Dragon_1: -899921244972516482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

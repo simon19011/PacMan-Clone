@@ -1,16 +1,34 @@
 fileFormatVersion: 2
-guid: 3e4a701bb4c751e48bd32cfd7a4951a3
+guid: 79ccf58eeafc2494b8079a4e385f2b34
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1357545880709767426
-    second: Dead Dragon Walk Down_0
+      213: 8329013407020998513
+    second: Pac Walls_0
   - first:
-      213: -4955465091682332225
-    second: Dead Dragon Walk Down_1
+      213: -7717616367105995233
+    second: Pac Walls_1
   - first:
-      213: -8856540738806283165
-    second: Dead Dragon Walk Down_2
+      213: -6262589913467896143
+    second: Pac Walls_2
+  - first:
+      213: -3661465111557284182
+    second: Pac Walls_3
+  - first:
+      213: -6144252413861839391
+    second: Pac Walls_4
+  - first:
+      213: -2021096802587993865
+    second: Pac Walls_5
+  - first:
+      213: -3105782405865737457
+    second: Pac Walls_6
+  - first:
+      213: -761565423244641859
+    second: Pac Walls_7
+  - first:
+      213: 2048613676158303825
+    second: Pac Walls_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -132,7 +150,51 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dead Dragon Walk Down_0
+      name: Pac Walls_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fd3fe8099969370800000000000000
+      internalID: 8329013407020998513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac Walls_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e08e5cdc485e490800000000000000
+      internalID: -7717616367105995233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac Walls_2
       rect:
         serializedVersion: 2
         x: 0
@@ -147,14 +209,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: efedffdc637092de0800000000000000
-      internalID: -1357545880709767426
+      spriteID: 1be3dc187afc619a0800000000000000
+      internalID: -6262589913467896143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead Dragon Walk Down_1
+      name: Pac Walls_3
       rect:
         serializedVersion: 2
         x: 32
@@ -169,14 +231,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb11d6911c6aa3bb0800000000000000
-      internalID: -4955465091682332225
+      spriteID: aae542c51ecdf2dc0800000000000000
+      internalID: -3661465111557284182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead Dragon Walk Down_2
+      name: Pac Walls_4
       rect:
         serializedVersion: 2
         x: 0
@@ -191,8 +253,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3640dac3f1f371580800000000000000
-      internalID: -8856540738806283165
+      spriteID: 1edbd65bbfa3bbaa0800000000000000
+      internalID: -6144252413861839391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pac Walls_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f890119a2f93f3e0800000000000000
+      internalID: -2021096802587993865
       vertices: []
       indices: 
       edges: []
@@ -201,7 +285,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 33d55d226302d1245a472c6472bddb9a
+    spriteID: 88699be7e2b810141a5979ae8e6009cc
     internalID: 0
     vertices: []
     indices: 
@@ -213,9 +297,12 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Dead Dragon Walk Down_0: -1357545880709767426
-      Dead Dragon Walk Down_1: -4955465091682332225
-      Dead Dragon Walk Down_2: -8856540738806283165
+      Pac Walls_0: 8329013407020998513
+      Pac Walls_1: -7717616367105995233
+      Pac Walls_2: -6262589913467896143
+      Pac Walls_3: -3661465111557284182
+      Pac Walls_4: -6144252413861839391
+      Pac Walls_5: -2021096802587993865
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
